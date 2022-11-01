@@ -4,6 +4,6 @@
 2. join a server
 3. then in your executor type this in
 ```lua
-loadstring(game:HttpGet("",true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Thecoolwolf2017/Munching-Masters-Simulator-framer/main/Munching%20Masters%20Simulator%20gui.lua",true))()
 ```
 4. have fun
